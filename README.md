@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...App Devloper
 - 🌱 I’m currently learning ... Latest Devlopment tools
 - 💞️ I’m looking to collaborate on ... Mobile devloper
-- 📫 How to reach me ... 7777009971
+- 📫 How to reach me ... 7777009971 connect@iriquehitech.com
 
 <!---
 admin-iriquehitech/admin-iriquehitech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
